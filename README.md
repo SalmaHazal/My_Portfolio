@@ -1,6 +1,6 @@
 <h1 align="center">My Portfolio</h1>
 
-<p align="center">💙🤍Duiscover Me💙🤍</p>
+<p align="center">💙🤍Discover Me💙🤍</p>
 
 
 <a href="https://my-portfolio-alpha-woad.vercel.app/" target="_blank">**Visit Now** 🚀</a>
