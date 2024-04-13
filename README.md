@@ -14,10 +14,14 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![image](https://github.com/SalmaHazal/My_Portfolio/assets/143286044/11f21367-f390-44cd-bef2-ebc1ce6b612a)
+![image](https://github.com/SalmaHazal/My_Portfolio/assets/143286044/9835953e-ce0e-4a42-b262-b24d0571f4c0)
+![image](https://github.com/SalmaHazal/My_Portfolio/assets/143286044/06f8c99e-71a7-4574-8f0b-c80b7814723e)
+![image](https://github.com/SalmaHazal/My_Portfolio/assets/143286044/9125b7d4-9c8e-4727-94a2-13915f1f94f8)
 
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+
+
+
+
 
 
 <h2>📬 Contact</h2>
@@ -25,9 +29,8 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jigar-sable/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/salma-el-hazal/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2022 Jigar Sable
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
